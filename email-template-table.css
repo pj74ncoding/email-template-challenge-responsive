@@ -1,0 +1,97 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+table {
+  border-right: 1px solid grey;
+}
+.border-left {
+  border-left: 1px solid grey;
+}
+
+table {
+  border-left: 1px solid grey;
+  min-width: 25%;
+  font-size: 0.9em;
+  margin: 25px 0px;
+  border-collapse: collapse;
+  margin: auto;
+}
+
+.fox1 {
+  width: 100%;
+}
+
+.company-info {
+  padding: 10px;
+}
+
+.details-button {
+  border: none;
+  padding: 5px;
+  border-radius: 6px;
+  background-color: orange;
+  font-weight: bold;
+  box-shadow: 1px 1px 1px grey;
+  transition: all 1s ease-in-out;
+  width: 80px;
+}
+
+.details-button:hover {
+  transform: scale(1.2);
+  box-shadow: 0px 1.5px 1.5px 1.5px grey;
+  transition: all 1s ease-in-out;
+}
+
+.contact {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: red;
+  height: 280px;
+}
+#envelope {
+  color: orange;
+  font-size: 5rem;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 90%;
+  margin: auto;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.inputs {
+  height: 30px;
+}
+
+.inputs:focus {
+  background-color: rgba(255, 166, 0, 0.353);
+}
+
+.question-field {
+  height: 100px;
+  word-break: break-word;
+}
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding-top: 10px;
+}
+
+.icons {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  gap: 20px;
+  font-size: 20px;
+}

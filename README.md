@@ -3,7 +3,7 @@
 
 
 
-Created a responsive email template to contact a website using <table>
+Created a responsive email template to contact a website using table
 
 Live Demo: https://responsive-bootstrap-application.vercel.app/
 

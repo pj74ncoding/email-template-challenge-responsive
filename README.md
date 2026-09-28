@@ -31,9 +31,6 @@ Live Demo: https://responsive-bootstrap-application.vercel.app/
 
 To learn how to use the table element in HTML
 
-### Objective
-
-What problem does this application solve?
 
 ### Learning Outcomes
 
@@ -42,10 +39,7 @@ What problem does this application solve?
 - learnt about <textArea>
 
 
-
 ## Project Features
-
-
 
 - Input and textarea elements for the user to contact the company
 - Responsive on all screen sizes
@@ -87,8 +81,6 @@ client/
   \---images
     
 
-      
-
 ```
 
 ---
@@ -101,8 +93,6 @@ client/
 git clone https://github.com/pj74ncoding/email-template-challenge-responsive.git
 cd email-template-challenge-responsive
 
-
-
 ```
 
 ### Install Dependencies
@@ -111,7 +101,6 @@ Frontend:
 
 ```bash
 cd email-template-challenge-responsive
-
 
 
 npm install

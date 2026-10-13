@@ -99,7 +99,6 @@ cd email-template-challenge-responsive
 Frontend:
 
 ```bash
-cd email-template-challenge-responsive
 npm install
 ```
 

@@ -102,7 +102,7 @@ Frontend:
 npm install
 ```
 
-### Run Development Servers
+### Run Application
 
 Frontend:
 

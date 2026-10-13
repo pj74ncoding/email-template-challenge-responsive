@@ -1,9 +1,6 @@
 # email-template-challenge-responsive
 
-
-
-
-Created a responsive email template to contact a website using table
+Created a responsive email template to contact a website using the table element
 
 Live Demo: https://responsive-bootstrap-application.vercel.app/
 
@@ -36,7 +33,7 @@ To learn how to use the table element in HTML
 
 ### Learning Outcomes
 
-- Learnt how to use Table
+- Learnt how to use table
 - Learnt how to use responsive design
 - learnt about <textArea>
 
@@ -45,7 +42,7 @@ To learn how to use the table element in HTML
 
 - Input and textarea elements for the user to contact the company
 - Responsive on all screen sizes
-- hover effects
+- Hover effects
 
 ---
 
@@ -114,7 +111,7 @@ Frontend:
 npm start
 ```
 
-## Screenshots
+## Preview
 
 ```
   \---images
@@ -122,14 +119,6 @@ npm start
         fox1.png
         fox2.png
 ```
-
-Add inside README:
-
-```markdown
-![Home Page](assets/home.png)
-![Dashboard](assets/dashboard.png)
-```
-
 ---
 
 ## Future Improvements
